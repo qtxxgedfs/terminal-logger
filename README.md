@@ -29,7 +29,7 @@ with get_logger() as logger:
     logger.warning("Warning message - something unexpected happened")
     logger.error("Error message - failed to perform an operation")
     logger.critical("Critical message - serious error, program may exit")
-
+```
 
 ### Advanced Configuration
 
